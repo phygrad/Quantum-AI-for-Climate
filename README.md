@@ -33,8 +33,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Arijeet Sarangi
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-MPn7ZGyppsPPycA
 
 Team Member 2:
  - Full Name: 
@@ -52,7 +52,40 @@ Team Member 4:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
+_Include a comprehensive summary of all important information about your project solution here._QuantumAI-Climate-Projects/
+│
+├── Project1_Atmospheric_Simulations/
+│   ├── code/
+│   │   ├── vqe_simulation.py
+│   │   └── qpe_simulation.py
+│   ├── data/
+│   │   └── climate_data.csv
+│   └── README.md
+│
+├── Project2_Climate_Prediction/
+│   ├── code/
+│   │   ├── ai_model.py
+│   │   └── data_preprocessing.py
+│   ├── data/
+│   │   └── historical_climate_data.csv
+│   └── README.md
+│
+├── Project3_Battery_Simulation/
+│   ├── code/
+│   │   ├── vqe_battery.py
+│   │   └── qpe_battery.py
+│   ├── data/
+│   │   └── battery_materials.csv
+│   └── README.md
+│
+└── Project4_Light_Interaction/
+    ├── code/
+    │   ├── ai_light_simulation.py
+    │   └── quantum_light_simulation.py
+    ├── data/
+    │   └── cloud_data.csv
+    └── README.md
+
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
