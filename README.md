@@ -54,7 +54,9 @@ Team Member 4:
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
 
+
 QuantumAI-Climate-Projects/
+│
 ├── Project1_Atmospheric_Simulations/
 │   ├── code/
 │   │   ├── vqe_simulation.py
