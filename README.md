@@ -52,7 +52,9 @@ Team Member 4:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._QuantumAI-Climate-Projects/
+_Include a comprehensive summary of all important information about your project solution here._
+
+QuantumAI-Climate-Projects/
 │
 ├── Project1_Atmospheric_Simulations/
 │   ├── code/
