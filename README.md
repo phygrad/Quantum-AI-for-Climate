@@ -55,7 +55,6 @@ Team Member 4:
 _Include a comprehensive summary of all important information about your project solution here._
 
 QuantumAI-Climate-Projects/
-│
 ├── Project1_Atmospheric_Simulations/
 │   ├── code/
 │   │   ├── vqe_simulation.py
@@ -87,6 +86,7 @@ QuantumAI-Climate-Projects/
     ├── data/
     │   └── cloud_data.csv
     └── README.md
+
 
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
